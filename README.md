@@ -14,10 +14,10 @@ IEEE Journal of Biomedical and Health Informatics（JBHI） IEEE生物医学和�
 IET Intelligent Transport Systems 智能交通系统  
 Journal of Biomedical Informatics（JBI） 生物医学信息学杂志  
 Medical Image Analysis 医学图像分析  
+
 会议  
 B类：  
 IEEE International Conference on Bioinformatics and Biomedicine（BIBM） IEEE生物信息学和生物医学国际会议  
-
 C类：  
 American Medical Informatics Association Annual Symposium（AMIA） 美国医学信息学协会年会  
 Asia Pacific Bioinformatics Conference（APBC） 亚太生物信息学会议  
