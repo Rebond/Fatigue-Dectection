@@ -12,7 +12,16 @@ C类：
 BMC Bioinformatics BMC生物信息学  
 IEEE Journal of Biomedical and Health Informatics IEEE生物医学和健康信息学杂志  
 IET Intelligent Transport Systems 智能交通系统  
+Journal of Biomedical Informatics 生物医学信息学杂志  
+Medical Image Analysis 医学图像分析  
+会议  
+B类：  
+IEEE International Conference on Bioinformatics and Biomedicine IEEE生物信息学和生物医学国际会议  
 
+C类：  
+American Medical Informatics Association Annual Symposium 美国医学信息学协会年会  
+Asia Pacific Bioinformatics Conference 亚太生物信息学会议  
+International Symposium on Bioinformatics Research and Applications 生物信息学研究与应用国际研讨会  
 
 
 
