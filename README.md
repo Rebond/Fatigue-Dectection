@@ -5,7 +5,7 @@ B类：
 Bioinformatics 生物信息学  
 IEEE Transactions on Intelligent Transportation Systems（TASAE） IEEE智能交通系统汇刊  
 IEEE Transactions on Medical Imaging（TMI） IEEE医学影像汇刊  
-IEEE-ACM Transactions on Computational Biology and Bioinformatics（TCBB） 计算生物学和生物信息学汇刊
+IEEE-ACM Transactions on Computational Biology and Bioinformatics（TCBB） 计算生物学和生物信息学汇刊  
 Journal of the American Medical Informatics Association（JAMIA） 美国医学信息学协会杂志  
 PLOS Computational Biology PLOS计算生物学  
 C类：  
